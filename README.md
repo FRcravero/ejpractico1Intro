@@ -11,3 +11,5 @@
 la segunda opcion mueve consolidar.sh
 
 !! IMPORTANTE: mover consolidar de EPNro1 antes de ejecutar ./main.sh -d o se borra !!
+
+comando para ver consolidar ejecutandose: pgrep -fl consolidar.sh
