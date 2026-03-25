@@ -34,9 +34,9 @@ read opcion
 case "$opcion" in
     1)
         cd ~
-        mkdir -p EPNro1
+        mkdir EPNro1
         cd EPNro1
-        mkdir -p entrada salida procesado
+        mkdir entrada salida procesado
         ;;
     2)
         mv consolidar.sh ~/EPNro1
